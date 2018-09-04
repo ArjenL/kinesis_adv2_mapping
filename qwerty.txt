@@ -1,0 +1,13 @@
+[=]>[\]
+[caps]>[escape]
+[obrack]>[hyphen]
+[cbrack]>[=]
+[intl-\]>[escape]
+[hyphen]>[cbrack]
+[lalt]>[rwin]
+[home]>[lalt]
+[end]>[rwin]
+[\]>[obrack]
+[pup]>[lalt]
+[pdown]>[rwin]
+
