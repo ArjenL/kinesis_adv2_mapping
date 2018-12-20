@@ -1,7 +1,7 @@
 [=]>[\]
 [caps]>[escape]
 [scroll]>[shutdn]
-[intl-\]>[delete]
+[intl-\]>[\]
 [kp=]>[kp=mac]
 [hyphen]>[=]
 [home]>[lalt]
@@ -13,3 +13,11 @@
 [kp-rwin]>[kp-rctrl]
 [pup]>[lalt]
 [pdown]>[rwin]
+{lshift}{obrack}>{obrack}
+{cbrack}>{-lshift}{cbrack}{+lshift}
+{lshift}{cbrack}>{cbrack}
+{obrack}>{-lshift}{obrack}{+lshift}
+{rshift}{=}>{\}
+{=}>{-rshift}{\}{+rshift}
+{rshift}{intl-\}>{\}
+{intl-\}>{-rshift}{\}{+rshift}
