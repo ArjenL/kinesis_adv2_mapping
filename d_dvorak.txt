@@ -34,3 +34,7 @@
 [kp-p]>[play]
 [kp-/]>[vol-]
 [kp-hyphen]>[vol+]
+[lalt]>[kpshift]
+[kp-lalt]>[kpshift]
+[rwin]>[kpshift]
+[kp-rwin]>[kpshift]
