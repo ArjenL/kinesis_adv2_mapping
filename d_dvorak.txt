@@ -6,8 +6,6 @@
 [hyphen]>[=]
 [home]>[lalt]
 [end]>[rwin]
-[kp-lctrl]>[kp-lwin]
-[kp-rctrl]>[kp-rwin]
 [\]>[hyphen]
 [rwin]>[rctrl]
 [kp-rwin]>[kp-rctrl]
