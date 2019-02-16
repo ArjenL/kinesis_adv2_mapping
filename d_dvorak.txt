@@ -1,3 +1,4 @@
+* custom Dvorak layout for Mac
 [=]>[\]
 [caps]>[escape]
 [scroll]>[shutdn]
@@ -13,6 +14,14 @@
 [kp-lwin]>[kp-lctrl]
 [pup]>[lalt]
 [pdown]>[rwin]
+
+* remap kpshift
+[lalt]>[kpshift]
+[kp-lalt]>[kpshift]
+[rwin]>[kpshift]
+[kp-rwin]>[kpshift]
+
+* kpshift number keys as function keys
 [kp-1]>[F1]
 [kp-2]>[F2]
 [kp-3]>[F3]
@@ -23,16 +32,16 @@
 [kp=]>[F8]
 [kpdiv]>[F9]
 [kpmult]>[F10]
+
+* kpshift movement keys
 [kp-home]>[home]
 [kp-end]>[end]
 [kp-pup]>[pup]
 [kp-pdown]>[pdown]
+
+* kpshift media keys
 [kp-left]>[prev]
 [kp-right]>[next]
 [kp-p]>[play]
 [kp-/]>[vol-]
 [kp-hyphen]>[vol+]
-[lalt]>[kpshift]
-[kp-lalt]>[kpshift]
-[rwin]>[kpshift]
-[kp-rwin]>[kpshift]
