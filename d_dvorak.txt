@@ -45,3 +45,7 @@
 [kp-p]>[play]
 [kp-/]>[vol-]
 [kp-hyphen]>[vol+]
+
+* intl key does `|`
+{intl-\}>{speed6}{-lshift}{\}{+lshift}
+{rshift}{intl-\}>{\}
