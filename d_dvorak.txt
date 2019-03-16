@@ -47,5 +47,5 @@
 [kp-hyphen]>[vol+]
 
 * intl key does `|`
-{intl-\}>{speed6}{-lshift}{\}{+lshift}
-{rshift}{intl-\}>{\}
+{intl-\}>{speed8}{-lshift}{\}{+lshift}
+{rshift}{intl-\}>{speed8}{\}
