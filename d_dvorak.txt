@@ -51,3 +51,25 @@
 * intl key does `|`
 {intl-\}>{speed8}{-lshift}{\}{+lshift}
 {rshift}{intl-\}>{speed8}{\}
+
+* invert symbols on number keys
+{1}>{speed8}{-lshift}{1}{+lshift}
+{2}>{speed8}{-lshift}{2}{+lshift}
+{3}>{speed8}{-lshift}{3}{+lshift}
+{4}>{speed8}{-lshift}{4}{+lshift}
+{5}>{speed8}{-lshift}{5}{+lshift}
+{6}>{speed8}{-lshift}{6}{+lshift}
+{7}>{speed8}{-lshift}{7}{+lshift}
+{8}>{speed8}{-lshift}{8}{+lshift}
+{9}>{speed8}{-lshift}{9}{+lshift}
+{0}>{speed8}{-lshift}{0}{+lshift}
+{rshift}{1}>{speed8}{1}
+{rshift}{2}>{speed8}{2}
+{rshift}{3}>{speed8}{3}
+{rshift}{4}>{speed8}{4}
+{rshift}{5}>{speed8}{5}
+{lshift}{6}>{speed8}{6}
+{lshift}{7}>{speed8}{7}
+{lshift}{8}>{speed8}{8}
+{lshift}{9}>{speed8}{9}
+{lshift}{0}>{speed8}{0}
