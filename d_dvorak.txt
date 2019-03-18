@@ -14,6 +14,8 @@
 [kp-lwin]>[kp-lctrl]
 [pup]>[lalt]
 [pdown]>[rwin]
+[delete]>[tab]
+[tab]>[delete]
 
 * remap kpshift
 [lalt]>[kpshift]
