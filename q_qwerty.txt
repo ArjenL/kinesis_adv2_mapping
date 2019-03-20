@@ -15,11 +15,3 @@
 [kp-rwin]>[kp-rctrl]
 [pup]>[lalt]
 [pdown]>[rwin]
-{obrack}>{-lshift}{hyphen}{+lshift}
-{lshift}{obrack}>{hyphen}
-{cbrack}>{-lshift}{=}{+lshift}
-{lshift}{cbrack}>{=}
-{intl-\}>{-rshift}{\}{+rshift}
-{rshift}{intl-\}>{\}
-{rshift}{=}>{\}
-{=}>{-rshift}{\}{+rshift}
