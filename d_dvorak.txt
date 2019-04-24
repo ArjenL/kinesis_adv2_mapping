@@ -1,5 +1,7 @@
 * custom Dvorak layout for Mac
 [=]>[\]
+[/]>[hyphen]
+[\]>[/]
 [caps]>[escape]
 [scroll]>[shutdn]
 [intl-\]>[\]
@@ -7,7 +9,6 @@
 [hyphen]>[=]
 [home]>[lalt]
 [end]>[rwin]
-[\]>[hyphen]
 [rwin]>[rctrl]
 [kp-rwin]>[kp-rctrl]
 [lwin]>[lctrl]
