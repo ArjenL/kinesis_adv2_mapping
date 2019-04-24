@@ -35,6 +35,8 @@
 [kp=]>[F8]
 [kpdiv]>[F9]
 [kpmult]>[F10]
+[kp-']>[F11]
+[kp-,]>[F12]
 
 * kpshift movement keys
 [kp-home]>[home]
