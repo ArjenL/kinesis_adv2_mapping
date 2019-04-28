@@ -1,0 +1,10 @@
+* from Twitter
+  (https://twitter.com/kinesisergo/status/843915361476997120?s=20)
+[lctrl]>[lwin]
+[kp-lctrl]>[kp-lwin]
+[rctrl]>[rwin]
+[kp-rctrl]>kp-rwin]
+[rwin]>[ralt]
+[kp-rwin]>[kp-ralt]
+[lalt]>[lctrl]
+[kp-lalt]>[kp-lctrl]
