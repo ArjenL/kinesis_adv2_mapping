@@ -37,6 +37,12 @@
 [kp-']>[F11]
 [kp-,]>[F12]
 
+* kpshift programmer keys ( `[`, `]`, `{`, `}` )
+{kp-a}>{-lshift}{obrack}{+lshift}
+{kp-o}>{-lshift}{cbrack}{+lshift}
+{kp-e}>{obrack}
+{kp-u}>{cbrack}
+
 * kpshift movement keys
 [kp-home]>[home]
 [kp-end]>[end]
