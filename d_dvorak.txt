@@ -1,6 +1,6 @@
 * custom Dvorak layout for Mac
 [=]>[\]
-[caps]>[escape]
+[caps]>[escape][t&h150][hyper]
 [scroll]>[shutdn]
 [intl-\]>[\]
 [kp=]>[kp=mac]
@@ -22,7 +22,6 @@
 [kp-lalt]>[kpshift]
 [rwin]>[kpshift]
 [kp-rwin]>[kpshift]
-* [rwin]>[hyper]
 
 * kpshift number keys as function keys
 [kp-1]>[F1]
