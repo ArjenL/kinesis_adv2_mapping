@@ -1,6 +1,6 @@
 * custom Dvorak layout for Mac
 [=]>[\]
-[caps]>[escape][t&h150][hyper]
+[caps]>[escape][t&h120][hyper]
 [scroll]>[shutdn]
 [intl-\]>[\]
 [kp=]>[kp=mac]
