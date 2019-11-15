@@ -44,14 +44,14 @@
 {kp-u}>{cbrack}
 
 * kpshift movement keys
-[kp-home]>[home]
-[kp-end]>[end]
-[kp-pup]>[pup]
-[kp-pdown]>[pdown]
+[kp-left]>[home]
+[kp-right]>[end]
+[kp-up]>[pup]
+[kp-down]>[pdown]
 
 * kpshift media keys
-[kp-left]>[prev]
-[kp-right]>[next]
+[kp-=]>[next]
+[kp-tab]>[prev]
 [kp-p]>[play]
 [kp-/]>[vol-]
 [kp-hyphen]>[vol+]
