@@ -1,6 +1,6 @@
 * custom Dvorak layout for Mac
 [=]>[\]
-[caps]>[escape][t&h120][hyper]
+[caps]>[escape]
 [scroll]>[shutdn]
 [intl-\]>[\]
 [kp=]>[kp=mac]
@@ -18,8 +18,7 @@
 [tab]>[delete]
 
 * remap kpshift
-[lalt]>[kpshift]
-[kp-lalt]>[kpshift]
+[lalt]>[hyper]
 [rwin]>[kpshift]
 [kp-rwin]>[kpshift]
 
