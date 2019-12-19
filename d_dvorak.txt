@@ -55,6 +55,6 @@
 [kp-/]>[vol-]
 [kp-hyphen]>[vol+]
 
-* intl key does `|`
-{intl-\}>{speed8}{-lshift}{\}{+lshift}
-{rshift}{intl-\}>{speed8}{\}
+* intl key does `:`
+{intl-\}>{-lshift}{;}{+lshift}
+{rshift}{intl-\}>{;}
