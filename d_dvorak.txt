@@ -15,7 +15,8 @@
 [pup]>[lalt]
 [pdown]>[rwin]
 [delete]>[tab]
-[tab]>[delete]
+[tab]>[`]
+[kp-delete]>[delete]
 
 * remap kpshift
 [lalt]>[hyper]
