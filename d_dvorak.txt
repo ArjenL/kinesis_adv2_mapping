@@ -59,3 +59,6 @@
 * intl key does `:`
 {intl-\}>{-lshift}{;}{+lshift}
 {rshift}{intl-\}>{;}
+
+* default for single foot pedal
+[mp-kpshf]
