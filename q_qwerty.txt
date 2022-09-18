@@ -1,22 +1,25 @@
-* custom Dvorak layout for Mac
+* custom Qwerty layout for Mac (keep Mac in Dvorak mode)
 [=]>[\]
+[\]>[obrack]
 [caps]>[escape]
-[scroll]>[shutdn]
-[intl-\]>[\]
-[kp=]>[kp=mac]
-[hyphen]>[=]
-[home]>[lalt]
-[end]>[rwin]
-[\]>[hyphen]
-[rwin]>[rctrl]
-[kp-rwin]>[kp-rctrl]
-[lwin]>[lctrl]
-[kp-lwin]>[kp-lctrl]
-[pup]>[lalt]
-[pdown]>[rwin]
+[cbrack]>[=]
 [delete]>[tab]
-[tab]>[`]
+[end]>[rwin]
+[home]>[lalt]
+[hyphen]>[cbrack]
 [kp-delete]>[delete]
+[kp-lctrl]>[kp-lwin]
+[kp-lwin]>[kp-lctrl]
+[kp-rctrl]>[kp-rwin]
+[kp-rwin]>[kp-rctrl]
+[kp=]>[kp=mac]
+[lwin]>[lctrl]
+[obrack]>[hyphen]
+[pdown]>[rwin]
+[pup]>[lalt]
+[rwin]>[rctrl]
+[scroll]>[shutdn]
+[tab]>[`]
 
 * remap kpshift
 [lalt]>[kpshift]
@@ -38,12 +41,6 @@
 [kpmult]>[F11]
 [kp-hyphen]>[F12]
 
-* kpshift programmer keys ( `[`, `]`, `{`, `}` )
-{kp-a}>{-lshift}{obrack}{+lshift}
-{kp-o}>{-lshift}{cbrack}{+lshift}
-{kp-e}>{obrack}
-{kp-u}>{cbrack}
-
 * kpshift movement keys
 [kp-left]>[home]
 [kp-right]>[end]
@@ -58,8 +55,8 @@
 [kp-hyphen]>[vol+]
 
 * intl key does `:`
-{intl-\}>{-lshift}{;}{+lshift}
-{rshift}{intl-\}>{;}
+{intl-\}>{-lshift}{z}{+lshift}
+{rshift}{intl-\}>{z}
 
 * default for single foot pedal
 [mp-kpshf]
