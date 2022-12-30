@@ -27,20 +27,6 @@
 [rwin]>[kpshift]
 [kp-rwin]>[kpshift]
 
-* kpshift top row keys as function keys
-[kp-=]>[F1]
-[kp-1]>[F2]
-[kp-2]>[F3]
-[kp-3]>[F4]
-[kp-4]>[F5]
-[kp-5]>[F6]
-[kp-6]>[F7]
-[numlk]>[F8]
-[kp=]>[F9]
-[kpdiv]>[F10]
-[kpmult]>[F11]
-[kp-hyphen]>[F12]
-
 * kpshift movement keys
 [kp-left]>[home]
 [kp-right]>[end]
@@ -50,8 +36,8 @@
 * kpshift media keys
 [kp-=]>[next]
 [kp-tab]>[prev]
-[kp-p]>[play]
-[kp-/]>[vol-]
+[kp-r]>[play]
+[kp-\]>[vol-]
 [kp-hyphen]>[vol+]
 
 * intl key does `:`
@@ -59,4 +45,4 @@
 {rshift}{intl-\}>{z}
 
 * default for single foot pedal
-[mp-kpshf]
+[mp-kpshfe
